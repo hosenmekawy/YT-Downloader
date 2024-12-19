@@ -2,7 +2,7 @@
 
 # Mekawy YT Downloads
 
-![Mekawy Downloads Logo](https://via.placeholder.com/800x200?text=Mekawy+Downloads)
+![Mekawy Downloads Logo](screenshots/logo.jpg)
 
 A **powerful, lightweight, and user-friendly YouTube video downloader** built with Flask and `yt_dlp`. Mekawy Downloads is designed to make downloading videos as simple as possible with an intuitive, mobile-first web interface and a seamless user experience.
 
