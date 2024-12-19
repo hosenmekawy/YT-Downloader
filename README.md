@@ -21,10 +21,10 @@ A **powerful, lightweight, and user-friendly YouTube video downloader** built wi
 ## Demo
 
 ### Web Interface:
-![Web Interface](https://via.placeholder.com/800x400?text=Screenshot+of+Web+Interface)
+![Web Interface](screenshots/image1.png)
 
 ### Progress Spinner:
-![Spinner Demo](https://via.placeholder.com/200x200?text=Spinner)
+![Spinner Demo](screenshots/spinner.png)
 
 ---
 
@@ -71,7 +71,7 @@ http://127.0.0.1:5000
 ### Step 1: Enter the Video URL
 Paste the YouTube video URL into the input field.
 
-![Enter URL](https://via.placeholder.com/800x400?text=Enter+URL+Screenshot)
+![Enter URL](screenshots/image1)
 
 ### Step 2: Start the Download
 Click the **Download** button to start downloading.
@@ -92,16 +92,15 @@ All downloaded videos are automatically saved in the `downloaders` folder locate
 Here’s a step-by-step example:
 
 1. Open the app:
-   ![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot)
+   ![App Screenshot](screenshots/image1.png)
 
-2. Paste a YouTube link:
-   ![Paste URL](https://via.placeholder.com/800x400?text=Paste+URL)
+2. Paste a YouTube link
 
 3. Watch the spinner progress:
-   ![Spinner Animation](https://via.placeholder.com/200x200?text=Spinner)
+   ![Spinner Animation](screenshots/spinner.png)
 
 4. Check your `downloaders` folder:
-   ![Download Folder](https://via.placeholder.com/800x400?text=Download+Folder)
+   ![Download Folder](screenshots/image2.png)
 
 ---
 
