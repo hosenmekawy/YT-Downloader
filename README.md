@@ -42,8 +42,8 @@ Follow these steps to set up Mekawy Downloads on your system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hosenmekawy/mekawy-downloads.git
-cd mekawy-downloads
+git clone https://github.com/hosenmekawy/YT-Downloader.git
+cd YT-Downloader
 ```
 
 ### 2. Install Dependencies
