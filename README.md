@@ -71,7 +71,7 @@ http://127.0.0.1:5000
 ### Step 1: Enter the Video URL
 Paste the YouTube video URL into the input field.
 
-![Enter URL](screenshots/image1)
+![Enter URL](screenshots/image1.png)
 
 ### Step 2: Start the Download
 Click the **Download** button to start downloading.
