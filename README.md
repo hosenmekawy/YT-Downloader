@@ -142,6 +142,5 @@ Made with ❤️ by [Hussien Mekawy](https://github.com/hosenmekawy)
 - **GitHub:** [github.com/hosenmekawy](https://github.com/hosenmekawy)  
 - **LinkedIn:** [linkedin.com/in/hussien-mekawy-5b11161a7](https://www.linkedin.com/in/hussien-mekawy-5b11161a7)
 
---- 
 
-Now you can paste this directly into your `README.md` file. Let me know if you need any further edits!
+
